@@ -1,0 +1,1 @@
+- 2026-09-16: Menambahkan optimasi pada sistem kasir dan face recognition.
